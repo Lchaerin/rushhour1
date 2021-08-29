@@ -124,7 +124,7 @@ function moveit(num){
 
 function clear(){
     alert('STAGE 1 CLEAR!');
-    window.location.href="rushhour2.html"
+    window.location.href="src/rushhour2.html"
 }
 
 function movecar(){
